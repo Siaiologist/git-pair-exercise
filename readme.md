@@ -1,8 +1,8 @@
 # Interview with Nic & Scarllette, AC cohort #23
 
-Question #1 for Nic,
+1) Question #1 for Nic,
 
-What is greatest adventure?
+What is your greatest adventure?
 
 
 Nic's A's:
