@@ -3,17 +3,16 @@
 ## Question #1 for Nic, <br>
 <br>
 <ol>
-  <li>What is your greatest adventure?<li/> 
-  <li>My greatest adventure....<li/>
-  <li>Nic's A's:<li/>
-  <li>My greatest adventure...
-<ol/><br>
+  What is your greatest adventure?
+  My greatest adventure....
+  Nic's A's:
+  My greatest adventure...
+<ol/>
 
-## Question #2 for Scarllette Ivy,<br>
+## Question #2 for Scarllette Ivy,
 <br>
 <ol>
-  <li>What?<li/>
-  <li>Scarllette Ivy's A's:<li/>
-<ol> <ol/>
+What?
+Scarllette Ivy's A's:
 <ol/><br>
 
