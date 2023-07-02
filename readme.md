@@ -2,7 +2,7 @@
 
 1) Question #1 for Nic,
 
-<ul>What is your greatest adventure?<ul/>
-<ul>Nic's A's:<ul/>
-<ul>My greatest adventure...<ul/>
+<ol>What is your greatest adventure?<ol/>
+<ol>Nic's A's:<ol/>
+<ol>My greatest adventure...<ol/>
 
