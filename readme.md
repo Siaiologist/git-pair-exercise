@@ -4,7 +4,7 @@
 
 <ol>What is your greatest adventure?<ol/>
 <ol>Nic's A's:<ol/>
-<ol>My greatest adventure...<ol/><br>
+<ol>My greatest adventure...<ol/> <br>
 
 ## 2 ) Question #2 for Scarllette Ivy,
 
