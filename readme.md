@@ -1,16 +1,13 @@
 # Interview with AC Cohort #23, Nic & Scarllette Ivy
 
-## Question #1 for Nic, <br>
-<br>
+## Question #1 for Nic,
 <ol>
-  What is your greatest adventure?
-  My greatest adventure....
-  Nic's A's:
-  My greatest adventure...
+  <li>What is your greatest adventure?<li/>
+  <li>Nic's A's:<li/>
+  <li>My greatest adventure...,<li/>
 <ol/>
 
 ## Question #2 for Scarllette Ivy,
-<br>
 <ol>
 What?
 Scarllette Ivy's A's:
