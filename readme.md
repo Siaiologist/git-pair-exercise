@@ -1,6 +1,6 @@
 # Interview with AC Cohort #23, Nic & Scarllette Ivy
 
-## 1 ) Question #1 for Nic,?<br>
+## 1 ) Question #1 for Nic,
 
 <ol>
   <li>What is your greatest adventure?<li/> 
