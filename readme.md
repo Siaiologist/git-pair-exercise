@@ -2,14 +2,13 @@
 
 ## Question #1 for Nic,
 
-What is your greatest adventure?
-  
-My greatest adventure...
+<p>What is your greatest adventure?</p>
 
-
+<p>My greatest adventure...      </p>
+<hr />
 
 ## Question #2 for Scarllette Ivy,
 
-Question?
+<p>Question?</p>
 
-Scarllette Ivy's A's:
+<p>Scarllette Ivy's A's:          </p>
